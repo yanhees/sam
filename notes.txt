@@ -3,8 +3,8 @@ map met zooi
 doel: geschiedenis tracken
 middel: git op die map inzetten
 
-1. 'git init' typen in command-line  (git BASH of VSC terminal)
 
+This is band ldfmalafmdlsmflmwdf
 
 Nieuwe map maken in verkenner.
 openen in VSC.
