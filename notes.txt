@@ -1,0 +1,39 @@
+Context:
+map met zooi
+doel: geschiedenis tracken
+middel: git op die map inzetten
+
+1. 'git init' typen in command-line  (git BASH of VSC terminal)
+
+
+Nieuwe map maken in verkenner.
+openen in VSC.
+open Git BASH in verkenner.
+type: git init
+
+you can open Readme.md in 'Terminal' mode
+
+store files in STAGEBOX
+> commit only those changes that are in the stagebox. 
+
+git trackt changes en displayt ze onder het branche-icoontje
+
+commit = snapshot of whole folder or selected in stagebox stuff
+
+
+
+GITHUB
+verschil tussen clone & download = clone = download + history
+
+You need to initialize remote first and that's difficult 
+
+
+IN BASH
+git status > toont bestanden in verkenner
+git add . > voegt ze those
+git commit > commit ze, opent Visual Studio Code
+
+
+
+Source-code is text. run/dmc/dfkljdlf/dnfje/fjjjeje...djdj><>><.skfj
+Illustrator stuff is binary 0101101001010101010
