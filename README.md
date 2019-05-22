@@ -23,4 +23,6 @@ Be Lit 🔥
 
 
 Having problems pushing? maybe someone changed the repo and you first have to pull the latest changes to update it 😉
- 
+ ```bash
+git pull -u origin master
+```
