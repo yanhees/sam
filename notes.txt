@@ -6,10 +6,7 @@ middel: git op die map inzetten
 
 This is band ldfmalafmdlsmflmwdf
 
-Nieuwe map maken in verkenner.
-openen in VSC.
-open Git BASH in verkenner.
-type: git init
+
 
 you can open Readme.md in 'Terminal' mode
 
